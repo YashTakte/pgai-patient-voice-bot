@@ -1,0 +1,58 @@
+[00:04] [AGENT] Be recorded for quality and training purposes.
+[00:04] [PATIENT] Hello! Thank you for calling our practice. How can I assist you today?
+[00:09] [AGENT] Thanks for calling Pivot Point Orthopaedics.
+[00:09] [PATIENT] Oh, this is actually Maria Alvarez. I'm calling to schedule a routine check-up for next
+[00:10] [AGENT] Part of Pretty Good AI.
+[00:10] [PATIENT] Oh, this is actually Maria Alvarez. I'd like to schedule
+[00:12] [AGENT] Am I speaking with Robert?
+[00:12] [PATIENT] Oh, this is actually Maria Alvarez. I'm calling to schedule a routine check-up for next week. Do you have any morning slots available?
+[00:25] [AGENT] Can you please provide Maria's full date of birth?
+[00:25] [PATIENT] Sure, it's March 3, 1990.
+[00:37] [AGENT] Just to confirm,
+[00:37] [PATIENT] Yes, that's correct. Could you let me know
+[00:40] [AGENT] I have your name as Maria Alvarez and your date of birth as March third
+[00:40] [PATIENT] Yes, that's correct. March 3, 1990. Could you let
+[00:41] [AGENT] nineteen ninety.
+[00:41] [PATIENT] That's correct! Could you help me find a morning appointment for next week?
+[00:46] [AGENT] Is that correct? If so, could you please spell your first and last name for me?
+[00:46] [PATIENT] Yes, that's correct. My first name is spelled M-A-R-I-A, and my last name is A-L-V-A-R-E-Z.
+[00:53] [AGENT] Could you please spell your first and last name for me?
+[00:53] [PATIENT] Certainly. My first name is spelled M-A-R-I-A, and my last name is A-L-V-A-R-E-Z.
+[00:59] [AGENT] Go ahead and spell your first and last name, please.
+[00:59] [PATIENT] Of course. My first name is spelled M-A-R-I-A, and my last name is spelled A-L-V-A-R-E-Z.
+[01:04] [AGENT] Please spell out your first and last name.
+[01:04] [PATIENT] Sure, it's M-A-R-I-A A-L-V-A-R-E-Z.
+[01:16] [AGENT] Would you like to use your phone number to look up your record?
+[01:16] [PATIENT] Yes, that would be great. My callback phone number is
+[01:19] [AGENT] If so, please provide the number you have on file with us.
+[01:20] [PATIENT] Sure, my phone
+[01:23] [AGENT] If you're not sure, I can confirm your name and date of birth again.
+[01:23] [PATIENT] I can give you my phone number. It's
+[01:24] [AGENT] Which would you prefer?
+[01:25] [PATIENT] I can provide my phone number. It's 512-555-0142.
+[01:32] [AGENT] Please tell me the phone number you have on file with us.
+[01:32] [PATIENT] The number I have is 512-555-0142.
+[01:38] [AGENT] Go ahead and tell me the full phone number you have on file.
+[01:38] [PATIENT] Sure, it's 512-555-0142.
+[01:45] [AGENT] Please say the full phone number you have on file.
+[01:45] [PATIENT] Of course, it's 512-555-0142.
+[01:57] [AGENT] I have your phone number as five one two
+[01:57] [PATIENT] Five-five-five-zero-one-four-two. That's correct.
+[01:58] [AGENT] five five five
+[01:58] [PATIENT] zero one four two. That's correct. Could we go ahead and schedule
+[02:00] [AGENT] zero one four two.
+[02:00] [PATIENT] That's correct. Could we go ahead and schedule that routine check-up for next week? I'd prefer a
+[02:03] [AGENT] And your date of birth is March third nineteen ninety.
+[02:04] [PATIENT] Yes, that's correct. Could we go ahead and schedule the check-up for next week? I'm looking for a morning appointment.
+[02:05] [AGENT] Is that correct?
+[02:05] [PATIENT] Yes, that's correct.
+[02:14] [AGENT] I can't schedule the appointment right now, but
+[02:14] [PATIENT] Oh, could you please let me know
+[02:16] [AGENT] I'll connect you to our patient support team for help.
+[02:17] [PATIENT] Alright, thank you. I appreciate your help.
+[02:20] [AGENT] Please stay on the line. Connecting you to a representative.
+[02:20] [PATIENT] Oh, no worries at all! Thank
+[02:22] [AGENT] Please wait.
+[02:22] [PATIENT] Alright, I'll hold. Thank you!
+[02:27] [AGENT] Hello. You've reached the Pretty Good AI test line. Goodbye.
+[02:27] [PATIENT] Goodbye! Have a great day.

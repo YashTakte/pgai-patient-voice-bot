@@ -1,0 +1,64 @@
+[00:03] [AGENT] For quality and training purposes.
+[00:03] [PATIENT] Hello, thank you for calling. How can I assist you today?
+[00:08] [AGENT] Thanks for calling Pivot Point Orthopaedics.
+[00:08] [PATIENT] Hi, this is Grace Thompson. I was wondering if I could schedule
+[00:10] [AGENT] Part of Pretty Good AI.
+[00:10] [PATIENT] Hi, this is Grace Thompson. I'd like to schedule an
+[00:11] [AGENT] Am I speaking with Robert?
+[00:12] [PATIENT] Oh, this is actually Grace Thompson. I'm calling to schedule an appointment, please. Are you able to help with that?
+[00:22] [AGENT] I can help you schedule an appointment, Grace.
+[00:23] [PATIENT] Great! I'm looking to make an appointment for this Sunday. Do you have any availability then?
+[00:26] [AGENT] Are you calling to book this appointment for yourself or for someone else?
+[00:26] [PATIENT] I'm calling to book an appointment for myself. Would it be possible to schedule something for this coming Sunday?
+[00:36] [AGENT] Please provide your date of birth.
+[00:37] [PATIENT] Sure, it's May 30, 1973. Could we look at getting an appointment on Sunday?
+[00:51] [AGENT] Could you please spell your first and last name for me just to make sure I have it correct?
+[00:51] [PATIENT] Of course, it's Grace Thompson. G-R-A-C-E T-H-O-M-P-S-O-N. So, about that Sunday appointment?
+[00:58] [AGENT] Go ahead and spell your first and last name, please.
+[00:58] [PATIENT] Sure, it's G-R-A-C-E T-H-O-M-P-S-O-N. Could we go ahead and check for that Sunday appointment?
+[01:01] [AGENT] I did not catch that.
+[01:01] [PATIENT] Apologies for that. It's Grace Thompson. G-R-A-C-E T
+[01:03] [AGENT] Could you please spell out your first and last name?
+[01:03] [PATIENT] Of course, it's G-R-A-C-E T-H-O-M-P-S-O-N. Now, about that Sunday appointment, is there availability then?
+[01:17] [AGENT] Before I can check availability,
+[01:18] [PATIENT] I understand. Could you let me know if there are any Sunday appointments available? I'm trying
+[01:19] [AGENT] I need to look up your record.
+[01:19] [PATIENT] Sure, let me know once you've found
+[01:22] [AGENT] Would you like to use your phone number to find your record?
+[01:22] [PATIENT] Yes, that's fine. My phone number is 512-555-
+[01:25] [AGENT] If so, please provide the number you have on file with us.
+[01:25] [PATIENT] Sure, the phone number on file should be 512-555-0155. Can we check for a Sunday appointment now
+[01:28] [AGENT] If you're not sure, I can confirm your name and date of birth again.
+[01:29] [PATIENT] You can use my phone number to find my record. It's 512-555-0155. Could you check for a Sunday appointment, please?
+[01:38] [AGENT] Please tell me the phone number you have on file with us.
+[01:38] [PATIENT] Sure, the number is 512-555-0155. Could you let me know if there's a Sunday appointment available?
+[01:43] [AGENT] Could you please provide the rest of your phone number?
+[01:43] [PATIENT] The whole number is 512-555-0155. Can we check on getting that Sunday appointment now?
+[01:59] [AGENT] I have your phone number as five one two
+[01:59] [PATIENT] That's correct, it's 512
+[02:02] [AGENT] five five five zero one five five
+[02:02] [PATIENT] That's correct
+[02:07] [AGENT] and your date of birth as May thirtieth nineteen seventy three. Is that correct?
+[02:07] [PATIENT] Yes, that's correct. Could you let me know about any availability on Sunday?
+[02:16] [AGENT] Thanks for confirming.
+[02:16] [PATIENT] You're welcome! So, is there an appointment available
+[02:21] [AGENT] Goodnight Point Orthopedics is open Monday through Friday,
+[02:21] [PATIENT] I see. So there aren’t any appointments available on Sunday
+[02:22] [AGENT] so we do not have appointments available on Sunday.
+[02:22] [PATIENT] Ah, got it. Could you help me find
+[02:26] [AGENT] Would you like to look at available times on Monday or another weekday?
+[02:26] [PATIENT] I see, I was really hoping for Sunday. Let's look at what you have available on Monday, then.
+[02:39] [AGENT] Please confirm your date of birth one more time so I can look up your record.
+[02:39] [PATIENT] Certainly, it's May 30, 1973. Let's try for an appointment on Monday, then.
+[02:54] [AGENT] I'm unable to verify your information in our
+[02:54] [PATIENT] Oh, that's unfortunate. Is there anything I can do to
+[03:01] [AGENT] system right now, so I can't book your appointment directly. Make sure our clinic support team follows up with you as soon as as possible to help schedule your visit.
+[03:02] [PATIENT] Alright, I appreciate your help.
+[03:04] [AGENT] Please stay on the line while I document your request.
+[03:04] [PATIENT] Alright, thank you. I'll wait. Could you have them call me back at 512-555-0155?
+[03:07] [AGENT] Connecting you to a representative.
+[03:07] [PATIENT] Thank you. I'll
+[03:08] [AGENT] Please wait.
+[03:09] [PATIENT] Thank you for your help. I'll wait on the line for the representative.
+[03:14] [AGENT] Hello. You've reached the Pretty Good AI test line. Goodbye.
+[03:14] [PATIENT] Goodbye, thanks for your help!

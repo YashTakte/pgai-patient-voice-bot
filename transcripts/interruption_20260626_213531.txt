@@ -1,0 +1,48 @@
+[00:03] [AGENT] For quality and training purposes.
+[00:03] [PATIENT] Hello! Thank you for calling. How can I assist you today?
+[00:08] [AGENT] For calling Pivot Point Orthopaedics.
+[00:08] [PATIENT] Hi there! What can I help you with today?
+[00:11] [AGENT] Part of Pretty Good AI.
+[00:11] [PATIENT] Hello! This is the Pivot Point Orthopaedics receptionist. How may I assist you today?
+[00:13] [AGENT] Am I speaking with Robert?
+[00:13] [PATIENT] Oh, this is actually Taylor Brooks. I was hoping to schedule an appointment.
+[00:25] [AGENT] Please provide the full name and date of birth of the patient you'd like to schedule for.
+[00:25] [PATIENT] Sure, that's Taylor Brooks, and my date of birth is September 17, 2002.
+[00:31] [AGENT] What is your date of birth?
+[00:31] [PATIENT] It's September 17, 2002.
+[00:41] [AGENT] Just to confirm, I have your name as Taylor Brooks.
+[00:41] [PATIENT] Yes, that's correct!
+[00:45] [AGENT] And your date of birth as September seventeenth two thousand and two.
+[00:45] [PATIENT] That's correct! Now, I'd like to
+[00:46] [AGENT] Is that correct?
+[00:46] [PATIENT] Yes, that's correct.
+[00:49] [AGENT] If so, please spell your first and last name for me.
+[00:49] [PATIENT] Yes, that's correct. It's T-A-Y-L-O-R B-R-O-O-K-S.
+[01:05] [AGENT] Would you like me to look up your record using your phone number? If so, please provide the number you have on file with us.
+[01:06] [PATIENT] Sure, my callback number is 512
+[01:10] [AGENT] If you're not sure, I can confirm your name and date of birth again.
+[01:10] [PATIENT] Sure, the phone
+[01:11] [AGENT] Which would you prefer?
+[01:11] [PATIENT] Let's go with the phone number. It's 512-555-0188.
+[01:18] [AGENT] Please tell me the phone number you have on file with us.
+[01:18] [PATIENT] It's 512-555-0188.
+[01:23] [AGENT] Go ahead with your phone number when you're ready.
+[01:23] [PATIENT] It's 512-555-0188.
+[01:35] [AGENT] I have your phone number as five one two
+[01:35] [PATIENT] 555-0188. Yes, that sounds right.
+[01:38] [AGENT] five five five zero one
+[01:38] [PATIENT] Yes, that's correct.
+[01:44] [AGENT] eight eight and your date of birth as September seventeenth two thousand and two. Is that correct?
+[01:44] [PATIENT] Yes, that's correct.
+[01:58] [AGENT] I can't schedule the appointment right now, but I can connect you to our patient support team.
+[01:58] [PATIENT] Actually, could I
+[02:00] [AGENT] Please stay on the line while I transfer your call.
+[02:00] [PATIENT] Actually, I'm hoping
+[02:03] [AGENT] Connecting you to a representative.
+[02:03] [PATIENT] Actually, before we do that, could I try
+[02:04] [AGENT] Please wait.
+[02:04] [PATIENT] Actually, can you tell me if there are any openings on Friday morning?
+[02:08] [AGENT] Hello. You've reached the Pretty Good AI test line.
+[02:08] [PATIENT] Ah, it seems
+[02:09] [AGENT] Goodbye.
+[02:09] [PATIENT] Actually, could we just finalize scheduling an appointment? I'd like to set it for Friday morning, please.

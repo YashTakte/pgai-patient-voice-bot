@@ -1,0 +1,10 @@
+pipecat-ai[silero,deepgram,cartesia,openai,twilio]
+fastapi
+uvicorn[standard]
+twilio
+python-dotenv
+loguru
+requests
+openai
+pydub
+imageio-ffmpeg

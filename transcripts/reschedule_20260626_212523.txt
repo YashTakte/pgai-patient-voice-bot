@@ -1,0 +1,56 @@
+[00:03] [AGENT] For quality and training purposes,
+[00:03] [PATIENT] Hello, thank you for calling Dr. Smith's office. How can I help you today?
+[00:08] [AGENT] Thanks for calling Pivot Point Orthopaedics.
+[00:08] [PATIENT] Hi,
+[00:10] [AGENT] Part of Pretty Good AI.
+[00:10] [PATIENT] Hi, this is Denise Walker. I have an appointment this Thursday at
+[00:11] [AGENT] Am I speaking with Robert?
+[00:12] [PATIENT] Oh, this is actually Denise Walker. I'm calling because I need to reschedule my appointment this Thursday at 2pm. Could I move it to early next week instead?
+[00:26] [AGENT] Can you please provide Denise Walker's date of birth?
+[00:26] [PATIENT] Yes, it's July 22, 1978.
+[00:41] [AGENT] Just to confirm, I have your name as Denise Walker, and your date of birth is July twenty second nineteen seventy eight.
+[00:41] [PATIENT] That's correct
+[00:42] [AGENT] Is that correct?
+[00:42] [PATIENT] Yes, that's correct. Could you help me reschedule the appointment to early next week?
+[00:51] [AGENT] To help with your request,
+[00:51] [PATIENT] Alright, thank you. Can you confirm that my appointment this Thursday at
+[00:54] [AGENT] can you please provide the phone number you have on file with us?
+[00:54] [PATIENT] Sure, the phone number is 512-555
+[00:56] [AGENT] If you're not sure,
+[00:56] [PATIENT] Sure, the phone number I have on file is 512-555-0198.
+[00:57] [AGENT] just let me know.
+[00:57] [PATIENT] Sure, my phone number is 512-555-0198.
+[00:59] [AGENT] And I'll confirm your name and date of birth again.
+[00:59] [PATIENT] Sure, my callback phone number is 512-555-0198.
+[01:13] [AGENT] I have your phone number as five one two
+[01:13] [PATIENT] Yes, that's correct. Can you help me reschedule my
+[01:15] [AGENT] five five five
+[01:15] [PATIENT] That's correct. Could you please help me
+[01:17] [AGENT] one nine eight
+[01:17] [PATIENT] That's correct. Could you please help me reschedule the appointment
+[01:20] [AGENT] and your date of birth is July twenty second.
+[01:20] [PATIENT] Yes, that's all correct. Could we go ahead and reschedule the appointment to early next week?
+[01:21] [AGENT] Nineteen seventy eight.
+[01:21] [PATIENT] That's right. Could you let me know what times are available early next week to reschedule my appointment
+[01:22] [AGENT] Is that correct?
+[01:22] [PATIENT] Yes, that's correct. Could we go ahead and reschedule my appointment? I'm hoping for early next week.
+[01:31] [AGENT] Thanks for confirming.
+[01:31] [PATIENT] You're welcome. Can we look at some options for early next week, please?
+[01:35] [AGENT] Just to be sure, are you rescheduling the appointment for yourself?
+[01:35] [PATIENT] Yes, it's for myself. I had an appointment this Thursday at 2pm. Can we move
+[01:37] [AGENT] Denise Walker, or for someone else?
+[01:37] [PATIENT] Yes, I'm rescheduling the appointment for myself, Denise Walker.
+[01:41] [AGENT] If it's for someone else, please provide their full name and date of birth.
+[01:41] [PATIENT] It's for myself, Denise Walker. Could we set a new appointment for early next week, please?
+[01:56] [AGENT] I can't proceed further right now, but I can make sure our clinic support team follows up with you.
+[01:57] [PATIENT] I understand. Just to confirm, can you make sure my original appointment this Thursday at 2pm
+[02:00] [AGENT] Please hold while I document your request for a callback.
+[02:00] [PATIENT] Oh, I was hoping to get this sorted out now. Can you confirm that my old appointment is canceled?
+[02:03] [AGENT] Connecting you to a representative.
+[02:03] [PATIENT] Okay, thank you. I
+[02:04] [AGENT] Please wait.
+[02:05] [PATIENT] I understand, but I'm in a bit of a rush on my lunch break. Can you make sure the current appointment is cancelled and someone will follow up soon?
+[02:09] [AGENT] Hello. You've reached the Pretty Good AI test line.
+[02:09] [PATIENT] I see, it
+[02:09] [AGENT] Goodbye.
+[02:10] [PATIENT] Oh, goodbye then! Thank you.

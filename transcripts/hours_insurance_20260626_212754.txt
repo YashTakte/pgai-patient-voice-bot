@@ -1,0 +1,28 @@
+[00:03] [AGENT] Corded for quality and training purposes.
+[00:03] [PATIENT] Hello! Thank you for calling. How can I assist you today?
+[00:08] [AGENT] Thanks for calling Pivot Point Orthopaedics.
+[00:08] [PATIENT] Hi there! I have a few questions. Can you tell me what your Saturday hours are
+[00:10] [AGENT] Part of Pretty Good AI.
+[00:10] [PATIENT] Hi there! I had a few questions. Could you tell me what the Saturday hours are for the office?
+[00:12] [AGENT] Am I speaking with Robert?
+[00:12] [PATIENT] Oh, this is actually Sana Patel. I was wondering if you could tell me what your Saturday hours are?
+[00:23] [AGENT] We're open Monday through Friday, but the
+[00:23] [PATIENT] Oh, I
+[00:24] [AGENT] clinic is closed on Saturdays.
+[00:24] [PATIENT] Thanks for letting me know. Could you also tell me if you accept Aetna PPO insurance?
+[00:26] [AGENT] Is there anything else I can help you with today?
+[00:27] [PATIENT] Yes, could you let me know if you accept Aetna PPO insurance?
+[00:36] [AGENT] Yes. Pivot Point Orthopaedics accepts most
+[00:36] [PATIENT] That's great to hear. Could you also tell me where your office is located?
+[00:44] [AGENT] insurance plans, including Aetna PPO. Would you like help updating your insurance information or have any other questions about comfort
+[00:44] [PATIENT] Great, that's good to know. Lastly, could you tell me where your office is located?
+[00:55] [AGENT] Our office is at one two three four Recovery Way,
+[00:55] [PATIENT] Thank you! That's
+[00:57] [AGENT] suite two hundred, Austin.
+[00:57] [PATIENT] Thank you so much for all the information. I appreciate your help. Goodbye!
+[01:00] [AGENT] If you need more details or directions, just let me know.
+[01:00] [PATIENT] Thank you, that's very helpful. I think that's all I needed. Thank you for your assistance! Goodbye.
+[01:10] [AGENT] You're welcome.
+[01:10] [PATIENT] Goodbye!
+[01:12] [AGENT] Have a great day. Goodbye.
+[01:12] [PATIENT] Thanks, you too! Goodbye!

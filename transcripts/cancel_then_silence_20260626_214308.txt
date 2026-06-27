@@ -1,0 +1,54 @@
+[00:03] [AGENT] For quality and training purposes,
+[00:03] [PATIENT] this call may be recorded. How may I assist you today?
+[00:08] [AGENT] Thanks for calling Pivot Point Orthopaedics.
+[00:08] [PATIENT] Hi there, this is Nina Foster. I need to cancel an appointment
+[00:10] [AGENT] Part of Pretty Good AI.
+[00:10] [PATIENT] Hello. This is Nina Foster speaking. I need to cancel an appointment I have tomorrow. Can you help me with that?
+[00:11] [AGENT] Am I speaking with Wabber?
+[00:12] [PATIENT] Oh, this is actually Nina Foster. I'm calling to cancel my appointment scheduled for tomorrow.
+[00:23] [AGENT] Please provide Nina Foster's date of birth.
+[00:23] [PATIENT] Sure, it's June 25, 1994.
+[00:32] [AGENT] Just to confirm,
+[00:32] [PATIENT] We have successfully canceled your appointment for tomorrow, Ms. Foster. If there's anything else we can assist you with, feel free to let us know
+[00:34] [AGENT] I have your name as Nina Foster.
+[00:34] [PATIENT] Yes, that's correct.
+[00:42] [AGENT] And your date of birth as June twenty fifth nineteen ninety four. Is that correct? If so, could you please spell your first and last name for me?
+[00:42] [PATIENT] Yes, that's correct. It's N-I-N-A F-O-S-T-E-R.
+[00:49] [AGENT] Could you please spell your first and last name for me?
+[00:49] [PATIENT] Of course, it's N-I-N-A F-O-S-T-E-R.
+[00:53] [AGENT] I just need you to spell out your first and last name, please.
+[00:53] [PATIENT] Certainly, it's N-I-N-A F-O-S-T-E-R.
+[01:06] [AGENT] You like to use your phone number to look up your record?
+[01:06] [PATIENT] Yes, you can use my phone number
+[01:08] [AGENT] If so, please provide the number you have on file with us.
+[01:09] [PATIENT] Sure, the number on file should be 512-555-0111.
+[01:14] [AGENT] If you're not sure, I can confirm your name and date of birth again. Which would you prefer?
+[01:14] [PATIENT] I can provide my phone number. It's 512-555-0111.
+[01:21] [AGENT] Go ahead and tell me the phone number you have on file with us.
+[01:21] [PATIENT] The phone number on file should be 512-555-0111.
+[01:27] [AGENT] Please say the full phone number you have on file.
+[01:27] [PATIENT] Sure, it's 512-555-0111.
+[01:33] [AGENT] I need the full phone number you have on file to look up your record.
+[01:33] [PATIENT] Certainly, the full phone number is 512-555-0111.
+[01:34] [AGENT] Could you please provide it?
+[01:34] [PATIENT] Certainly, the full phone number is 512-555-0111.
+[01:48] [AGENT] I have your phone number as five one two
+[01:48] [PATIENT] five-five-five, zero-one-one-one.
+[01:51] [AGENT] five five five zero one one one.
+[01:51] [PATIENT] That's correct. Could you proceed with canceling my appointment?
+[01:55] [AGENT] And your date of birth as June twenty fifth nineteen ninety four.
+[01:55] [PATIENT] Yes, that's correct. Could you go ahead and cancel my appointment for tomorrow, please?
+[01:56] [AGENT] Is that correct?
+[01:56] [PATIENT] Yes, that's correct.
+[02:08] [AGENT] I can't cancel the appointment right now, but I'll connect you to our patient support team so they can help.
+[02:08] [PATIENT] Okay, could you please confirm if the appointment has been canceled and if there's any confirmation number for it?
+[02:09] [AGENT] Please stay on the line.
+[02:09] [PATIENT] Oh, uh... okay.
+[02:11] [AGENT] Connecting you to a representative.
+[02:11] [PATIENT] Actually, before connecting
+[02:12] [AGENT] Please wait.
+[02:13] [PATIENT] Actually, before you transfer me, could you check if there's a way to cancel the appointment and provide a confirmation number for the cancellation?
+[02:14] [AGENT] Hello.
+[02:15] [PATIENT] can you cancel the appointment for me instead
+[02:17] [AGENT] You've reached the Pretty Good AI test line. Goodbye.
+[02:18] [PATIENT] Oh, could you please confirm if my appointment for tomorrow is cancelled and provide a confirmation number before we end the call?

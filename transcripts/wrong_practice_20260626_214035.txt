@@ -1,0 +1,26 @@
+[00:04] [AGENT] Be recorded for quality and training purposes.
+[00:04] [PATIENT] Hello! Thank you for calling. How can I assist you today?
+[00:09] [AGENT] Thanks for calling Pivot Point Orthopaedics.
+[00:09] [PATIENT] Oh, hi there. I'm trying to reach Dr. Hammond. Is this the right place for that?
+[00:12] [AGENT] Part of Pretty Good AI.
+[00:12] [PATIENT] Oh, I see. I was hoping to speak with Dr. Hammond. Is this the right
+[00:13] [AGENT] I speaking with Robert?
+[00:13] [PATIENT] Oh, this is actually Frances Sullivan. I'm trying to find out if Dr. Hammond works there. Could you help me with that?
+[00:26] [AGENT] Doctor Hammond is not listed as a provider at Pivot Point Orthopedics.
+[00:26] [PATIENT] Oh, I see. Maybe I called the wrong place. Thank you for checking.
+[00:30] [AGENT] Our team includes doctor Dugie Hauser, doctor Doug Ross,
+[00:30] [PATIENT] I see, thank you for the information. I
+[00:32] [AGENT] doctor Adam Bricker,
+[00:32] [PATIENT] Oh, I see. I must have called the wrong place then. Thank you for letting me know.
+[00:34] [AGENT] Lynn Anderson, and Carl Mentz.
+[00:35] [PATIENT] Oh, I see. I might have called the wrong place then. Thank you so much for your help!
+[00:37] [AGENT] You like information about any of these provide
+[00:37] [PATIENT] No, that's alright. I was specifically looking for Dr. Hammond. Thank you for the information, though. Goodbye!
+[00:48] [AGENT] You're welcome.
+[00:48] [PATIENT] Bye!
+[00:50] [AGENT] Take care, and have a great day.
+[00:50] [PATIENT] Thank you, you too! Goodbye!
+[00:51] [AGENT] Goodbye.
+[00:51] [PATIENT] Goodbye!
+[00:55] [AGENT] Goodbye.
+[00:55] [PATIENT] Goodbye! Take care.
